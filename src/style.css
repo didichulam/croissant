@@ -1,0 +1,13 @@
+body {
+  text-align: center;
+  background-color: #f9e8a6;
+}
+.relevant-links {
+  display: flex;
+  justify-content: center;
+}
+
+.relevant-links a {
+  margin: 10px;
+  color: #208612;
+}
